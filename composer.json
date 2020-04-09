@@ -1,0 +1,26 @@
+{
+    "name": "pointybeard/helpers-functions-numbers",
+    "description": "A collection of functions for manipulating numbers",
+    "homepage": "https://github.com/pointybeard/helpers-functions-numbers",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Alannah Kearney",
+            "email": "hi@alannahkearney.com",
+            "homepage": "http://alannahkearney.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=7.2"
+    },
+    "support": {
+        "issues": "https://github.com/pointybeard/helpers-functions-numbers/issues"
+    },
+    "minimum-stability": "stable",
+    "autoload": {
+        "files": [
+            "src/Numbers/Numbers.php"
+        ]
+    }
+}
